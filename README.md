@@ -1,2 +1,2 @@
-# practice-coding-interview-in-mysql
-Contains coding snippets developed while practicing interview questions
+# practice-coding-in-mysql
+Contains coding snippets developed while practicing questions
